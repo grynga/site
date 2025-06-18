@@ -1,8 +1,8 @@
 
 const products = [
   {
-    name: "Camiseta Grynga",
-    price: "R$ 79,90",
+    name: "Body Suplex premiun",
+    price: "R$ 59,90",
     image: "https://via.placeholder.com/300x300.png?text=Camiseta+Grynga",
     description: "Camiseta de algodão premium com estampa exclusiva Grynga.",
     category: "blusas"
