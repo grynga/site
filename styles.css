@@ -2,11 +2,11 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: #fff3f0;
-  color: #2f1b1a;
+  background-color: ##ffffff;
+  color: #fff7ec;
 }
 .topbar {
-  background: #fff;
+  background: #d4af37;
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -16,7 +16,7 @@ body {
 .filters button {
   margin: 0 0.2rem;
   padding: 0.5rem 1rem;
-  background: #cb2c63;
+  background: #a46c1f;
   border: none;
   color: white;
   border-radius: 5px;
