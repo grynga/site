@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-color: ##ffffff;
+  background-color: #b97a33;
   color: #b97a33;
 }
 .topbar {
@@ -18,7 +18,7 @@ body {
   padding: 0.5rem 1rem;
   background: #a46c1f;
   border: none;
-  color: white;
+  color: #6b4c3b;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -83,10 +83,10 @@ const products = [
     category: "blusas"
   },
   {
-    name: "Moletom Grynga",
-    price: "R$ 149,90",
+    name: "Body Suplex ",
+    price: "R$ 59,90",
     image: "https://via.placeholder.com/300x300.png?text=Moletom+Grynga",
-    description: "Moletom grosso com capuz e bolso canguru. Ideal para o frio urbano.",
+    description: "Body Suplex Tam U.",
     category: "blusas"
   },
   {
